@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intro Slider Example</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_slide1">Best introslider</string>
+    <string name="desc_slide1">This is the best intro slider inspired from instagram</string>
+    <string name="title_slide2">updates Related to intro</string>
+    <string name="desc_slide2">It will give you all the updates related to introslider </string>
+    <string name="title_slide3">All Default settings </string>
+    <string name="desc_slide3">it will give you all the default setting related to intro slider</string>
+</resources>
