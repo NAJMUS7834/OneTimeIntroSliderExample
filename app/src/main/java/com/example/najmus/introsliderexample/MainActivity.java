@@ -1,4 +1,7 @@
 package com.example.najmus.introsliderexample;
+/*====================================
+    Author : NAJMUS SEEMAB
+======================================*/
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
